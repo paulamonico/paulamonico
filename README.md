@@ -1,4 +1,6 @@
-### Hi there 👋
+# sobre mim
+- 15yo
+- meu nome é Paula
 
 <!--
 **paulamonico/paulamonico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
