@@ -1,6 +1,7 @@
 # sobre mim
 - 15yo
-- meu nome é Paula
+- meu nome é Paula 
+- Número na chamada: 33
 
 <!--
 **paulamonico/paulamonico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
